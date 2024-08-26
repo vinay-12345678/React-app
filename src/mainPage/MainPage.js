@@ -4,7 +4,7 @@ import "./MainPage.css";
 import Posts from "./posts/Posts";
 import CreatePost from "./posts/CreatePost";
 
-const MainPage = () => {
+const MainPage = ({ userDetails }) => {
     const [posts, setPosts] = useState(mainPageMockedData);
     const onPostPress = useCallback((newPostObject) => {
         setPosts((old) => {
@@ -14,7 +14,9 @@ const MainPage = () => {
 
     return (
         <div className="main-page">
-            <p className="main-heading">{"Hello Jane"}</p>
+            <p className="main-heading">{`Hello ${
+                userDetails?.current?.username || "Buddy"
+            }`}</p>
             <p className="main-sub-heading">
                 {
                     "How are you doing today? Would you like to share something with the community 🤗"

@@ -17,7 +17,7 @@ const LoginAndRegister = ({ toggleLogin, showRegisterInitially = false }) => {
         const username = userNameRef.current?.value;
         const password = passwordRef.current?.value;
 
-        toggleLogin();
+        toggleLogin({ eMail, username, password });
         console.log("Login Attempt: ", { eMail, username, password });
     }, []);
 
