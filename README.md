@@ -84,3 +84,6 @@ The goal of the task is to build a mini frontend app with an auth flow provided 
 <img width="1724" alt="Screenshot 2024-08-26 at 12 52 56 PM" src="https://github.com/user-attachments/assets/428493c9-e4a4-4ac2-806f-45b3b623b811">
 <img width="1725" alt="Screenshot 2024-08-26 at 12 52 48 PM" src="https://github.com/user-attachments/assets/1eb1dca8-4299-4f86-b148-31da7a6736d6">
 
+
+Working domain:- https://react-app-blond-three.vercel.app/
+
