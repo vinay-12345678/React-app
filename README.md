@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## **Requirements :**
+
+The goal of the task is to build a mini frontend app with an auth flow provided in the design linked above. (Just the frontend, no need to create a backend REST API)
+
+- You are free to choose your choice of framework [React (preferred) / Vue / Svelte / Next]
+- You are free to choose either JavaScript or TypeScript (highly preferred)
+- You are free to choose your choice of CSS framework [TailwindCSS (preferred) / styled-components / stitches / anything else]
+- There's NO NEED to implement the logic for creating new posts, comments or likes
