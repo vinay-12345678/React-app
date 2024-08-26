@@ -78,3 +78,9 @@ The goal of the task is to build a mini frontend app with an auth flow provided 
 - You are free to choose either JavaScript or TypeScript (highly preferred)
 - You are free to choose your choice of CSS framework [TailwindCSS (preferred) / styled-components / stitches / anything else]
 - There's NO NEED to implement the logic for creating new posts, comments or likes
+
+<img width="1726" alt="Screenshot 2024-08-26 at 12 53 22 PM" src="https://github.com/user-attachments/assets/43b53c4d-61f5-45e5-8cc3-e2d5e155832f">
+<img width="1728" alt="Screenshot 2024-08-26 at 12 53 09 PM" src="https://github.com/user-attachments/assets/f4fd6b5e-cb42-469d-881f-2165f2746d0a">
+<img width="1724" alt="Screenshot 2024-08-26 at 12 52 56 PM" src="https://github.com/user-attachments/assets/428493c9-e4a4-4ac2-806f-45b3b623b811">
+<img width="1725" alt="Screenshot 2024-08-26 at 12 52 48 PM" src="https://github.com/user-attachments/assets/1eb1dca8-4299-4f86-b148-31da7a6736d6">
+
