@@ -1,0 +1,66 @@
+.input-container {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  width: 100%;
+}
+
+.input-title {
+  font-size: 16px;
+  color: #C5C7CA;
+  /* White text color for the title */
+}
+
+.input-subtitle {
+  font-size: 14px;
+  color: #C5C7CA;
+  /* Lighter color for subtitle */
+  margin-left: 10px;
+  /* Optional spacing between title and subtitle */
+}
+
+.input-box {
+  padding: 10px;
+  background: transparent;
+  border: 1px solid #7F8084;
+  outline: none;
+  font-size: 16px;
+  font-weight: 400;
+  color: #7F8084;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.input-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.toggle-password {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 18px;
+  color: #cccccc;
+  /* Color for the eye icon */
+}
+
+.input-box::placeholder {
+  color: #aaa;
+  /* Placeholder text color */
+}
+
+.input-box:focus {
+  border-color: #007bff;
+  /* Change border color on focus */
+}
